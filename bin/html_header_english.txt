@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Game Development Tools for Windows (GDT-Windows)</title>
+<link href="http://s.ytimg.com/yts/cssbin/www-core-vflqJi9JP.css" rel="stylesheet">
+<link href="http://s.ytimg.com/yts/cssbin/www-home-c4-vfljtKkXJ.css" rel="stylesheet">
+</head>
+<body>
+<br><p align="center">GDT-Windows: Game Development Tools - Windows</p><br><br>

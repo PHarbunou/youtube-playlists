@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="ja">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="ja">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="ja">
+<!--<![endif]-->
+<head>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<!-- 
+<meta name="viewport" content="width=800, user-scalable=yes, maximum-scale=1">
+ -->
+<head>
+<title>Game Development Tools for Windows (GDT-Windows)</title>
+<link href="http://s.ytimg.com/yts/cssbin/www-core-vflqJi9JP.css" rel="stylesheet">
+<link href="http://s.ytimg.com/yts/cssbin/www-home-c4-vfljtKkXJ.css" rel="stylesheet">
+</head>
+<body>
+<h1><p align="center">GDT-Windows: Game Development Tools - Windows</p></h1>
+<h1><p align="center">Video Tutorials</p></h1><br>
